@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PhonicusFrontend.Server.Controllers.AudioController",
+    "Method": "AnalyzeAudio",
+    "RelativePath": "api/Audio/analyze",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "audioFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

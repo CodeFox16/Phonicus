@@ -1,0 +1,5 @@
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Client\obj\Debug\net7.0\staticwebassets.build.json

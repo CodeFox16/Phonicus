@@ -1,0 +1,11 @@
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\bin\Debug\net7.0\PhonicusFrontend.Shared.deps.json
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\bin\Debug\net7.0\PhonicusFrontend.Shared.dll
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\bin\Debug\net7.0\PhonicusFrontend.Shared.pdb
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\obj\Debug\net7.0\PhonicusFrontend.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\obj\Debug\net7.0\PhonicusFrontend.Shared.AssemblyInfoInputs.cache
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\obj\Debug\net7.0\PhonicusFrontend.Shared.AssemblyInfo.cs
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\obj\Debug\net7.0\PhonicusFrontend.Shared.csproj.CoreCompileInputs.cache
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\obj\Debug\net7.0\PhonicusFrontend.Shared.dll
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\obj\Debug\net7.0\refint\PhonicusFrontend.Shared.dll
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\obj\Debug\net7.0\PhonicusFrontend.Shared.pdb
+C:\Phonicus\PhonicusApp\PhonicusFrontend\Shared\obj\Debug\net7.0\ref\PhonicusFrontend.Shared.dll

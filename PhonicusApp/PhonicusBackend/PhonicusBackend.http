@@ -1,0 +1,6 @@
+@PhonicusBackend_HostAddress = http://localhost:5178
+
+GET {{PhonicusBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

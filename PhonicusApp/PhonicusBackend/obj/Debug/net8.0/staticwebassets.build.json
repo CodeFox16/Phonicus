@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rnU7eSMJlvSp1j1WHyoIB/Nweh9ur377c2mXQIFseDc=",
+  "Source": "PhonicusBackend",
+  "BasePath": "_content/PhonicusBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonicusBackend", "PhonicusBackend\PhonicusBackend.csproj", "{1B56B942-03EA-4AF1-ABC6-2A743C29F2F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonicusFrontend.Server", "PhonicusFrontend\Server\PhonicusFrontend.Server.csproj", "{07FFA30C-1184-4FD5-854B-3D5907A8577A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonicusFrontend.Client", "PhonicusFrontend\Client\PhonicusFrontend.Client.csproj", "{F742EB4E-C46F-4138-87A7-11BAE0D1602B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonicusFrontend.Shared", "PhonicusFrontend\Shared\PhonicusFrontend.Shared.csproj", "{880D0B28-D57B-4FD7-876F-1BDD6C4837C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhonicusFrontend", "PhonicusFrontend", "{3997C5AF-154A-4C77-B581-4B5AFEECD218}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{86010CDB-AF45-4FFC-8C68-5A16ADD5F5B1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Personal\PhonicusApp\Scripts\whisper_transcribe.py = ..\..\Personal\PhonicusApp\Scripts\whisper_transcribe.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B56B942-03EA-4AF1-ABC6-2A743C29F2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B56B942-03EA-4AF1-ABC6-2A743C29F2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B56B942-03EA-4AF1-ABC6-2A743C29F2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B56B942-03EA-4AF1-ABC6-2A743C29F2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FFA30C-1184-4FD5-854B-3D5907A8577A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FFA30C-1184-4FD5-854B-3D5907A8577A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FFA30C-1184-4FD5-854B-3D5907A8577A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FFA30C-1184-4FD5-854B-3D5907A8577A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F742EB4E-C46F-4138-87A7-11BAE0D1602B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F742EB4E-C46F-4138-87A7-11BAE0D1602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F742EB4E-C46F-4138-87A7-11BAE0D1602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F742EB4E-C46F-4138-87A7-11BAE0D1602B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880D0B28-D57B-4FD7-876F-1BDD6C4837C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880D0B28-D57B-4FD7-876F-1BDD6C4837C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880D0B28-D57B-4FD7-876F-1BDD6C4837C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880D0B28-D57B-4FD7-876F-1BDD6C4837C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07FFA30C-1184-4FD5-854B-3D5907A8577A} = {3997C5AF-154A-4C77-B581-4B5AFEECD218}
+		{F742EB4E-C46F-4138-87A7-11BAE0D1602B} = {3997C5AF-154A-4C77-B581-4B5AFEECD218}
+		{880D0B28-D57B-4FD7-876F-1BDD6C4837C2} = {3997C5AF-154A-4C77-B581-4B5AFEECD218}
+	EndGlobalSection
+EndGlobal
